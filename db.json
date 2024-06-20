@@ -13,14 +13,13 @@
         "content3": "Unleash the power of tailored front-end solutions with Custom Component Development. Craft unique, reusable UI components designed to fit your project's specific needs. From custom navigation bars to interactive widgets, I create modular, maintainable elements that ensure consistency, brand cohesion, and efficiency across your web application."
     },
     "about": {
-        "value1": "1",
-        "span1": "Years Experience",
-        "value2": "1",
-        "span2": "Clients",
-        "value3": "4",
-        "span3": "Completed Projects",
-        "value4": "15",
-        "span4": "Achievements"
+        "title": "About me",
+        "paragraph1": "Hi, I'm Nikola, a passionate programmer currently working at Makpetrol.",
+        "paragraph2": "I recently completed the Front-End Academy at Brainster, where I honed my skills in HTML, CSS, JavaScript, and modern frameworks like React and Next.js. This intensive program not only enhanced my technical abilities but also deepened my understanding of user-centric design and development practices. Throughout my training and professional experiences, I have worked extensively with technologies and methodologies such as Scrum, AJAX, Sass, Git, Bootstrap, TailwindCSS, UX/UI, and jQuery.",
+        "paragraph4": "In addition to my professional role, I am continually exploring new technologies and best practices to stay at the forefront of the industry. My commitment to continuous learning ensures that I can adapt to the rapidly evolving tech landscape and bring innovative solutions to the table.",
+        "paragraph5": "When I'm not immersed in code, I enjoy pistol shooting, which helps me maintain a balanced and focused outlook on life. I also go to the gym, which further fuels my drive for excellence in everything I do.",
+        "paragraph6": "I believe in the power of collaboration, creativity, and continuous improvement. My goal is to leverage my skills and experiences to create seamless and engaging digital experiences.",
+        "paragraph7": "Feel free to explore my portfolio and reach out if you'd like to collaborate or just say hi!"
     },
     "projects": {
         "title": "Featured Projects",
@@ -29,6 +28,8 @@
         "name2": "Street Artists",
         "content2": "The second project of Academy, where i used more of JavaScript, it's an platform for Street Artists, where they can post, put their new arts on it, editing the same arts, remove them, put them in auction and someone who look for it, he can place bid for the art. It was interesting while doing this project, and I practiced more of JavaScript. The project was very helpful about understand the algorithm of often tasks in bigger applications.",
         "name3": "Portfolio",
-        "content3": "My portfolio, for those who want to get to know me better with my experience that I offer, and in an opportunity to work together."
+        "content3": "My portfolio, for those who want to get to know me better with my experience that I offer, and in an opportunity to work together.",
+        "name4": "Pet Shop",
+        "content4": "The Pet Shop project is a place where pet owners can find everything they need for their pets to keep them in good health and ease the way they live together."
     }
 }
